@@ -1,0 +1,27 @@
+---
+title: "Welcome to Winston-Salem Aid Resources"
+description: |
+  The purpose of this site to consolidate information for those affected by Covid-19.
+author:
+  - name: Nora Jones 
+    url: https://example.com/norajones
+    affiliation: Spacely Sprockets
+    affiliation_url: https://example.com/spacelysprokets
+date: 03-19-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+Trying to pull together resources for those in need.
+This includes links to public benefits programs like small business loans for businesses and unemployment benefits for individuals. 
+Please check out the "resources" section for more details.
+

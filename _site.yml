@@ -1,0 +1,20 @@
+name: "wsaid"
+title: "Winston-Salem Aid Resources"
+description: |
+  Winston-Salem Aid Resources
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Resources"
+      menu:
+        - text: "For Individuals"
+          href: individuals.html
+        - text: "For Businesses"
+          href: businesses.html
+output:
+  distill::distill_article:
+    css: styles.css

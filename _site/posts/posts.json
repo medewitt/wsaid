@@ -1,0 +1,17 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Winston-Salem Aid Resources",
+    "description": "The purpose of this site to consolidate information for those affected by Covid-19.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-03-19",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-03-19T05:50:25-04:00"
+  }
+]

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584611746613.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1043751987",
+    "id" : "36AEF0EB",
+    "lastKnownWriteTime" : 1584611919,
+    "last_content_update" : 1584611919887,
+    "path" : "~/consulting/wsaid/businesses.Rmd",
+    "project_path" : "businesses.Rmd",
+    "properties" : {
+        "cursorPosition" : "3,56",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

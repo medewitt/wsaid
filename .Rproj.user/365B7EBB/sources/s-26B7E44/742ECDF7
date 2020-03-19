@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584611722512.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "742ECDF7",
+    "lastKnownWriteTime" : 1584611894,
+    "last_content_update" : 1584611894851,
+    "path" : "~/consulting/wsaid/individuals.Rmd",
+    "project_path" : "individuals.Rmd",
+    "properties" : {
+        "cursorPosition" : "3,246",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
