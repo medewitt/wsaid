@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2726116989",
+    "hash" : "0",
     "id" : "BC9872E6",
-    "lastKnownWriteTime" : 1584612026,
-    "last_content_update" : 1584612026509,
+    "lastKnownWriteTime" : 1584612858,
+    "last_content_update" : 1584612858769,
     "path" : "~/consulting/wsaid/_site.yml",
     "project_path" : "_site.yml",
     "properties" : {
-        "cursorPosition" : "19,19",
-        "scrollLine" : "0"
+        "cursorPosition" : "19,14",
+        "scrollLine" : "1"
     },
     "read_only" : false,
     "read_only_alternatives" : [

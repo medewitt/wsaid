@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "3867903822",
     "id" : "CAC4D071",
-    "lastKnownWriteTime" : 1584611745,
-    "last_content_update" : 1584611745457,
+    "lastKnownWriteTime" : 1584613283,
+    "last_content_update" : 1584613283356,
     "path" : "~/consulting/wsaid/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "6,0",
+        "cursorPosition" : "10,4",
         "scrollLine" : "0"
     },
     "read_only" : false,

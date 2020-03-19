@@ -17,4 +17,5 @@ navbar:
           href: businesses.html
 output:
   distill::distill_article:
-    css: styles.css
+    css: style.css
+    toc: true

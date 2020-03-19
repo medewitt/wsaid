@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584612734325.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3634029407",
+    "id" : "5B68CA4B",
+    "lastKnownWriteTime" : 1584613193,
+    "last_content_update" : 1584613193165,
+    "path" : "~/consulting/wsaid/style.css",
+    "project_path" : "style.css",
+    "properties" : {
+        "cursorPosition" : "24,18",
+        "scrollLine" : "5"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}
